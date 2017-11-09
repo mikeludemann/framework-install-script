@@ -1,0 +1,10 @@
+angular
+@angular/cli
+ember-cli
+vue
+vue-cli
+jsx
+react
+react-dom
+react-redux
+create-react-app
